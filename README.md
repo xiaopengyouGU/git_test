@@ -2,3 +2,4 @@
 a git test repository
 - feature-A
 - fix-B
+- feature-D
